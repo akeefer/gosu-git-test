@@ -1,6 +1,6 @@
 package test
 
-// Make a change to this file
+// Change this line
 class FooBar {
   // Initial version of FooBar.gs
 }
