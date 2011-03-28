@@ -1,0 +1,1 @@
+The gosu-git-test project is intended as a git repository suitable for testing the gosu-git library, as well as any similar projects that might require testing interaction with a git repository that has some well-known state.
